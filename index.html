@@ -1,69 +1,44 @@
-<HTML>
+
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Health Sciences Network Graph</title>
-  <script src="https://unpkg.com/sigma@2.4.0/build/sigma.min.js"></script>
-  <script src="https://unpkg.com/graphology@0.25.0/dist/graphology.umd.min.js"></script>
+  <meta charset="UTF-8">
+  <title>Grafo ARTS AND HUMANITIES</title>
   <style>
-    body { font-family: Inter, Arial, sans-serif; background: #fff; margin: 0; }
+    html, body, #container { height: 100%; margin: 0; padding: 0; }
     #container { width: 100vw; height: 100vh; }
-    h1 { color: #2563EB; font-size: 2rem; margin: 0.5em 1em; }
-    .legend { position: absolute; top: 1em; right: 2em; background: #fff; border: 1px solid #E5E7EB; border-radius: 8px; padding: 1em; font-size: 1rem; box-shadow: 0 2px 8px #0001; }
-    .legend span { display: inline-block; width: 1em; height: 1em; margin-right: 0.5em; border-radius: 50%; vertical-align: middle; }
+    .legend { position: absolute; top: 20px; right: 20px; background: #fff; border: 1px solid #eee; padding: 10px; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; }
   </style>
+  <script src="https://unpkg.com/sigma@2.4.0/build/sigma.min.js"></script>
 </head>
 <body>
-  <h1>Health Sciences Network Graph</h1>
   <div id="container"></div>
   <div class="legend">
-    <div><span style="background:#2563EB"></span>Field</div>
-    <div><span style="background:#24EB84"></span>Subfields</div>
-    <div><span style="background:#B2EB24"></span>Keyword</div>
-    <div><span style="background:#D324EB"></span>Domain</div>
+    <b>Leyenda de colores</b><br>
+    <span style="color:#28b36a;">●</span> Field<br>
+    <span style="color:#9a96e5;">●</span> Keywords<br>
+    <span style="color:#2563EB;">●</span> Otros<br>
+    <span style="color:#EB3424;">●</span> Personalizable<br>
   </div>
   <script>
-    // Color mapping by type
-    const typeColors = {
-      'Field': '#2563EB',
-      'Subfields': '#24EB84',
-      'Keyword': '#B2EB24',
-      'Domain': '#D324EB'
-    };
-    // Load the graph data
     fetch('data/graph.json')
       .then(response => response.json())
-      .then(data => {
-        // Build the graphology graph
-        const graph = new window.graphology.Graph();
-        data.nodes.forEach(node => {
-          graph.addNode(node.id, {
-            label: node.label,
-            size: node.size,
-            color: typeColors[node.type] || '#B2EB24',
-            x: Math.random() * 100,
-            y: Math.random() * 100
-          });
-        });
-        data.edges.forEach(edge => {
-          graph.addEdge(edge.source, edge.target, {
-            label: edge.label,
-            size: edge.size,
-            color: '#E5E7EB'
-          });
-        });
-        // Render with Sigma
+      .then(graphData => {
         const container = document.getElementById('container');
-        const renderer = new window.sigma.Sigma(graph, container, {
-          renderEdgeLabels: false,
-          zIndex: true,
-          allowInvalidContainer: false,
-          minCameraRatio: 0.05,
-          maxCameraRatio: 10,
-          labelFont: 'Inter',
-          labelSize: 16,
-          defaultNodeColor: '#2563EB',
-          defaultEdgeColor: '#E5E7EB',
+        const renderer = new sigma({
+          graph: graphData,
+          container: container,
+          settings: {
+            defaultNodeColor: '#2563EB',
+            minCameraRatio: 0.01,
+            maxCameraRatio: 100,
+            labelColor: 'node',
+            labelSize: 16,
+            labelFont: 'Inter',
+            zIndex: true
+          }
         });
       });
   </script>
 </body>
-</HTML>
+</html>

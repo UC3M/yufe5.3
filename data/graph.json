@@ -1,0 +1,6709 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "ARTS AND HUMANITIES",
+      "type": "Field",
+      "size": 10.672269,
+      "x": -192.91464,
+      "y": -1321.4756,
+      "color": "#28b36a",
+      "weight": 42.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "2",
+      "label": "GENERAL ARTS & HUMANITIES",
+      "type": "Subfields",
+      "size": 15.210085,
+      "x": 1229.1943,
+      "y": -1201.6047,
+      "color": "#f97743",
+      "weight": 8.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "3",
+      "label": "ARCHAEOLOGY",
+      "type": "Subfields",
+      "size": 10.168067,
+      "x": -1484.444,
+      "y": -1056.9729,
+      "color": "#f97743",
+      "weight": 0.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "4",
+      "label": "CLASSICS",
+      "type": "Subfields",
+      "size": 10.92437,
+      "x": -2654.6487,
+      "y": -11.229591,
+      "color": "#f97743",
+      "weight": 2.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "5",
+      "label": "CONSERVATION",
+      "type": "Subfields",
+      "size": 11.008404,
+      "x": -313.59937,
+      "y": 788.6062,
+      "color": "#f97743",
+      "weight": 2.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "6",
+      "label": "HISTORY",
+      "type": "Subfields",
+      "size": 14.537815,
+      "x": -1163.505,
+      "y": -910.0398,
+      "color": "#f97743",
+      "weight": 9.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "7",
+      "label": "History & PhilosHISTORY & PHILOSOPHY OF SCIENCE",
+      "type": "Subfields",
+      "size": 11.596639,
+      "x": -173.45258,
+      "y": 1023.852,
+      "color": "#f97743",
+      "weight": 2.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "8",
+      "label": "LANGUAJE & LINGUISTICS",
+      "type": "Subfields",
+      "size": 20.0,
+      "x": -2285.191,
+      "y": -777.84106,
+      "color": "#f97743",
+      "weight": 16.0,
+      "modularity_class": 0
+    },
+    {
+      "id": "9",
+      "label": "LITERATURE AND LITERARY THEORY",
+      "type": "Subfields",
+      "size": 18.15126,
+      "x": 993.0227,
+      "y": -1001.6253,
+      "color": "#f97743",
+      "weight": 14.0,
+      "modularity_class": 0
+    },
+    {
+      "id": "10",
+      "label": "MUSEOLOGY",
+      "type": "Subfields",
+      "size": 12.268908,
+      "x": -1102.1451,
+      "y": 976.2023,
+      "color": "#f97743",
+      "weight": 3.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "11",
+      "label": "MUSIC",
+      "type": "Subfields",
+      "size": 10.168067,
+      "x": -351.23557,
+      "y": 471.54346,
+      "color": "#f97743",
+      "weight": 0.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "12",
+      "label": "PHILOSOPHY",
+      "type": "Subfields",
+      "size": 13.193277,
+      "x": 1099.176,
+      "y": 905.7937,
+      "color": "#f97743",
+      "weight": 4.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "13",
+      "label": "RELIGUIOUS STUDIES",
+      "type": "Subfields",
+      "size": 10.168067,
+      "x": -407.99097,
+      "y": 44.4856,
+      "color": "#f97743",
+      "weight": 0.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "14",
+      "label": "VISUAL ARTS AND PERFORMING",
+      "type": "Subfields",
+      "size": 16.554623,
+      "x": 660.74133,
+      "y": -1134.1969,
+      "color": "#f97743",
+      "weight": 12.0,
+      "modularity_class": 1
+    },
+    {
+      "id": "15",
+      "label": "EXPERIMENTAL TELEVISION IN EUROPE - 1950-1980",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 2271.6472,
+      "y": 347.3058,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "16",
+      "label": "VARIETY TV SHOWS IN EUROPE - 1950-1990",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1287.0775,
+      "y": 850.3448,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "17",
+      "label": "FILM",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 882.09705,
+      "y": 152.11258,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "18",
+      "label": "VISUAL CULRURE AND ECOCRITICISM - FILM",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -291.93546,
+      "y": -566.9197,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "19",
+      "label": "VISUAL CULTURE AND ENVIRONMENTAL STUDIES - FILM",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2290.824,
+      "y": -643.882,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "20",
+      "label": "VISUAL CULTURE AND ECOLOGY - FILM THEORIES - SURVEILLANCE AND VISUAL CULTURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 3284.5593,
+      "y": 510.72855,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "21",
+      "label": "NEO-LATIN LITERATURE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1343.8357,
+      "y": -792.6295,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "22",
+      "label": "POETRY",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 338.25275,
+      "y": -439.81317,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "23",
+      "label": "FRENCH CLASSICISM",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1396.6699,
+      "y": 137.67735,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "24",
+      "label": "BRITISH INSTITUTIONS",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -776.09393,
+      "y": -86.24182,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "25",
+      "label": "TOURISM",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 290.89557,
+      "y": 388.51062,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "26",
+      "label": "FINANCE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -614.0289,
+      "y": 702.9313,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "27",
+      "label": "AMAZONIA",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1388.2654,
+      "y": 518.48096,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "28",
+      "label": "MUSEOLOGY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -480.72208,
+      "y": 408.3399,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "29",
+      "label": "INDIGENOUS ART",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1812.751,
+      "y": 740.54236,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "30",
+      "label": "HISTORY OF ANCIENT PHILOSOPHY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1279.5248,
+      "y": -483.69577,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "31",
+      "label": "HISTORIOGRAPHY OF PHILOSOPHY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 9.859329,
+      "y": -512.6358,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "32",
+      "label": "HISTORY OF GEOGRAPHY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 492.72137,
+      "y": 342.29596,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "33",
+      "label": "RENAISSANCE GEOGRAPHY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -164.7156,
+      "y": 831.3716,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "34",
+      "label": "AGE OF DISCOVERIES",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1696.7869,
+      "y": 53.79217,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "35",
+      "label": "GEOGRAPHICAL KNOWLEDGE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -2042.2102,
+      "y": -555.6581,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "36",
+      "label": "TRAVEL ACCOUNTS",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 158.96033,
+      "y": 787.8909,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "37",
+      "label": "KNOWLEDGE AND POWER IN THE RENAISSANCE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 2583.89,
+      "y": -351.1442,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "38",
+      "label": "VENETIAN HISTORY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 950.45734,
+      "y": -398.80502,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "47",
+      "label": "PHOTOGRAPHY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -188.36308,
+      "y": -958.2949,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "48",
+      "label": "CULTURAL HISTORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -245.41992,
+      "y": -827.1028,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "49",
+      "label": "UNITED STATES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1116.1772,
+      "y": -580.8138,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "50",
+      "label": "LATIN AMERICA",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1246.1259,
+      "y": -49.877644,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "51",
+      "label": "FILM HISTORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1685.2842,
+      "y": 647.0365,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "52",
+      "label": "LANGUAGE ACQUISITION OUTSIDE FAMILY ENVIRONMENT",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2657.9941,
+      "y": -194.34827,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "53",
+      "label": "STATISTICS IN LINUISTICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2676.3135,
+      "y": 81.630226,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "54",
+      "label": "NLP",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -457.22028,
+      "y": -651.94434,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "55",
+      "label": "GERMAN LANGUAGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -743.48956,
+      "y": -175.13683,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "56",
+      "label": "GENDER INCLUSIVE & GENDER SENSITIVE LANGUAGE IN FRENCH AND GERMAN",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -4390.0527,
+      "y": -208.7213,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "57",
+      "label": "INCLUSION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -307.50024,
+      "y": 704.73553,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "58",
+      "label": "LINGUISTIC ANALYSIS IN MUSEUM COMMUNICATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2057.7634,
+      "y": -555.9539,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "59",
+      "label": "DISCOURSE ANALYSIS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2018.9572,
+      "y": 208.8854,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "60",
+      "label": "POLITICALLY CORRECT LANGUAGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 621.0934,
+      "y": 253.58298,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "61",
+      "label": "POLITICAL DISCOURSES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 735.78827,
+      "y": -827.0037,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "62",
+      "label": "DIDACTIC FOR GERMAN AS FOREIGN LANGUAGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1048.6289,
+      "y": -44.447144,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "63",
+      "label": "SPEECH THERAPY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1197.9047,
+      "y": 2.4297266,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "64",
+      "label": "CLINICAL PHONETICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1040.6307,
+      "y": -272.16776,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "65",
+      "label": "FRENCH AS A FOREIGN LANGUAGE PHONETICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2597.0833,
+      "y": 539.3076,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "66",
+      "label": "PHONETIC CONVERGENCE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1750.6705,
+      "y": -268.01862,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "67",
+      "label": "VOICE QUALITY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 732.9349,
+      "y": -139.6435,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "68",
+      "label": "VOICE CONVERGENCE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 167.83578,
+      "y": -785.7525,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "69",
+      "label": "PHONETICS OF EMOTIONS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1204.4252,
+      "y": -355.6474,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "70",
+      "label": "PHONETICS OF SINGING VOICE AND SPEECH",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1647.2236,
+      "y": 643.30444,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "71",
+      "label": "COMPARATIVE LITERATURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 400.57712,
+      "y": 212.38744,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "72",
+      "label": "MEDIEVALISM",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -4.7737684,
+      "y": 383.95233,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "73",
+      "label": "MODERNISM",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 877.6249,
+      "y": -54.291008,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "74",
+      "label": "LITERATURE AND PHILOSOPHY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1241.6705,
+      "y": -550.7267,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "75",
+      "label": "THEATRE AND/OR DRAMA TRANSLATION",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1705.4836,
+      "y": -388.12137,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "76",
+      "label": "INTERPRETER TRAINING",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1381.1057,
+      "y": 343.45996,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "77",
+      "label": "TRANSLATION HISTORY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 939.3699,
+      "y": 701.6401,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "78",
+      "label": "AI IN TESOL",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 562.52246,
+      "y": -355.9163,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "79",
+      "label": "COMPUTERS IN LANGUAGE LEARNING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1764.7256,
+      "y": -509.2972,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "80",
+      "label": "AI AND STUDENT ENGAGEMENT IN LANGUAGE CLASSES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -3507.8452,
+      "y": -145.15611,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "81",
+      "label": "WAR AND LITERATURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1866.5085,
+      "y": -187.2638,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "82",
+      "label": "HISTORY AND LITERATURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1885.4835,
+      "y": -140.30621,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "83",
+      "label": "POLITICS AND LITERATURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -550.948,
+      "y": 661.89484,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "84",
+      "label": "ECOPOETRY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -777.89136,
+      "y": 500.20862,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "85",
+      "label": "TRANSLATION",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 20.807396,
+      "y": 86.269966,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "86",
+      "label": "EMOTION CORPUS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1924.1725,
+      "y": -345.5409,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "87",
+      "label": "L2 ENGLISH PRONUNCIATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1444.4985,
+      "y": 475.73093,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "88",
+      "label": "TANDEM LEARNING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -997.7033,
+      "y": 44.553406,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "89",
+      "label": "TELECOLLABORATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -101.40784,
+      "y": -355.8755,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "90",
+      "label": "CONTEMPORARY AMERICAN FICTION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1903.9996,
+      "y": -1.8129424,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "91",
+      "label": "BLUE HUMANITIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1070.2726,
+      "y": 216.87683,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "92",
+      "label": "NORTH AMERICAN AND POSTCOLONIAL LITERATURES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2002.7809,
+      "y": -259.06204,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "93",
+      "label": "BLACK AND QUEER STUDIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 377.06653,
+      "y": 297.215,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "101",
+      "label": "MIGRATION STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 248.5637,
+      "y": -617.1083,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "102",
+      "label": "FILM STUDIES",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1397.6765,
+      "y": -226.34007,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "103",
+      "label": "NON FICTION FILM STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2530.695,
+      "y": 340.51102,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "104",
+      "label": "CULTURAL DIPLOMACY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -214.38982,
+      "y": -270.944,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "105",
+      "label": "MEDIEVAL ART",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 644.09143,
+      "y": -488.9474,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "106",
+      "label": "MEDIEVAL ILLUMINATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 493.46677,
+      "y": 136.19867,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "107",
+      "label": "MEDIEVAL RELIGIOSITY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 174.33063,
+      "y": -869.8919,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "108",
+      "label": "GOTHIC ART",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -144.03836,
+      "y": 342.66092,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "109",
+      "label": "SOCIAL INFLUENCE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -387.90756,
+      "y": 557.25006,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "110",
+      "label": "POWER AND GROUP BEHAVIOUR",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -822.00336,
+      "y": -429.31012,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "111",
+      "label": "ATTENTION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 587.4679,
+      "y": -447.05478,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "112",
+      "label": "PERCEPTION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1944.6653,
+      "y": -77.06467,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "113",
+      "label": "ACTION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -901.15906,
+      "y": 259.94894,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "114",
+      "label": "CONSCIOUSNESS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1894.1257,
+      "y": 49.077396,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "115",
+      "label": "CINEMA",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -392.9252,
+      "y": -609.6481,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "116",
+      "label": "SERIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -389.73184,
+      "y": -92.6814,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "117",
+      "label": "FESTIVALS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1253.0583,
+      "y": 259.89615,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "118",
+      "label": "AUDIENCES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1071.6257,
+      "y": 559.5881,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "119",
+      "label": "COMMUNICATION AND INFORMATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1202.0527,
+      "y": 10.062353,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "120",
+      "label": "NETWORKS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -148.48352,
+      "y": -658.242,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "121",
+      "label": "MEDIA",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -584.3129,
+      "y": -695.75,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "122",
+      "label": "CULTURAL STUDIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -665.87933,
+      "y": 598.4425,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "123",
+      "label": "CULTURAL IDENTITIES AND MEMORIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1531.365,
+      "y": -598.2648,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "124",
+      "label": "CULTURAL HERITAGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1325.7065,
+      "y": 725.6878,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "125",
+      "label": "PERFORMANCE STUDIES",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1130.6975,
+      "y": 337.61353,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "126",
+      "label": "COERCIVE CONFINEMENT",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 412.01865,
+      "y": -9.572858,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "127",
+      "label": "GENETIC CRITICISM",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -548.4935,
+      "y": 362.67334,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "128",
+      "label": "HUMAN GEOGRAPHY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -736.79736,
+      "y": -784.5948,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "129",
+      "label": "VISUAL STUDIES",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": 2592.98,
+      "y": -702.9559,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "130",
+      "label": "URBAN HISTORY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -53.48409,
+      "y": 514.7362,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "131",
+      "label": "EUROPEAN HISTORY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -42.84332,
+      "y": -50.9057,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "132",
+      "label": "SOVIET HISTORY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -337.47372,
+      "y": -870.9172,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "133",
+      "label": "EURASIAN HISTORY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": 1470.0309,
+      "y": -398.496,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "134",
+      "label": "HUMAN GEOGRAPHY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -1397.8016,
+      "y": 587.1625,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "135",
+      "label": "SPACE AND PLACE",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": 845.6591,
+      "y": 829.73895,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "136",
+      "label": "LINGUISTIC ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -2366.459,
+      "y": 490.81567,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "137",
+      "label": "CULTURAL ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -868.1001,
+      "y": -825.7076,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "138",
+      "label": "SOCIAL ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": 1910.6582,
+      "y": 686.62695,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "139",
+      "label": "SOCIOLINGUISTICS",
+      "type": "Keywords",
+      "size": 10.336135,
+      "x": -162.47629,
+      "y": -140.41309,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "140",
+      "label": "QUEER STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2611.3848,
+      "y": -101.5815,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "141",
+      "label": "FEMINIST CRITICISM",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 765.1316,
+      "y": -624.50714,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "142",
+      "label": "MEDIEVAL LITERATURE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 126.11589,
+      "y": 701.4466,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "143",
+      "label": "COMPARATIVE MYTHOLOGY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -2608.8438,
+      "y": -471.48886,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "144",
+      "label": "INTERSECTION OF LITERATURE AND VISUAL ARTS",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1635.7793,
+      "y": -869.5131,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "145",
+      "label": "SOUND STUDIES",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -586.2984,
+      "y": -914.55646,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "146",
+      "label": "COUNTERCULTURE",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 1713.809,
+      "y": -440.30377,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "147",
+      "label": "DIASPORA AND MIGRATION STUDIES",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 1483.4772,
+      "y": -660.1023,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "148",
+      "label": "SCIENCE AND TECHNOLOGY STUDIES",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -1524.3064,
+      "y": 500.19794,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "149",
+      "label": "MORE-THAN-HUMAN ENTANGLING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -830.84607,
+      "y": 934.6174,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "150",
+      "label": "CRITICAL TECHNOLOGY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1487.2433,
+      "y": 137.74779,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "151",
+      "label": "HUMAN BIAS",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 927.8899,
+      "y": -226.78915,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "152",
+      "label": "POLYPERSPECTIVE WAYS OF KNOWING",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 2707.6682,
+      "y": -44.65658,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "153",
+      "label": "ART HISTORY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 1285.816,
+      "y": -314.12112,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "154",
+      "label": "METHODOLOGY OF DESCRIPTION",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 703.0223,
+      "y": 517.63794,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "155",
+      "label": "WRITING STRATEGY",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -157.48602,
+      "y": -699.9965,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "156",
+      "label": "NUMERISATION",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -647.35583,
+      "y": -514.7749,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "157",
+      "label": "ART MARKETING",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -1007.3915,
+      "y": 396.49527,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "158",
+      "label": "OTHER SIMILAR DESIGN DISCIPLINES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -677.82764,
+      "y": 85.59211,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "159",
+      "label": "HISTORY OF (PRODUCTS AND) SERVICES AND PHILOSOPHY OF (PRODUCTS AND) SERVICES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 2794.0393,
+      "y": 227.0494,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "160",
+      "label": "THEOLOGY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -889.1171,
+      "y": 705.0229,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "161",
+      "label": "COMMUNICATION STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 176.13194,
+      "y": 934.3111,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "162",
+      "label": "SOCIOLOGY",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -1196.475,
+      "y": 683.37256,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "163",
+      "label": "ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.588235,
+      "x": 653.99286,
+      "y": 94.26617,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "164",
+      "label": "FILM STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1160.6874,
+      "y": 301.41925,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "165",
+      "label": "GAME DESIGN",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1245.1821,
+      "y": 53.489376,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "166",
+      "label": "VISUAL CULTURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1739.6807,
+      "y": 178.91275,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "167",
+      "label": "INTERDISCIPLINARY VIEWS ON ACCES AND ARTS",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2456.453,
+      "y": -430.07217,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "168",
+      "label": "MYTHOLOGY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 247.20416,
+      "y": -397.0327,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "169",
+      "label": "COMPARATIVE STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 25.41301,
+      "y": 429.76962,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "170",
+      "label": "CULTURAL MANAGEMENT",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": -628.0754,
+      "y": 300.91165,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "171",
+      "label": "CULTURAL POLICIES",
+      "type": "Keywords",
+      "size": 10.252101,
+      "x": 2725.2603,
+      "y": -597.59314,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "173",
+      "label": "HISTORICAL TECHNICAL TEXTILE RESEARCH",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 905.11646,
+      "y": 431.05988,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "174",
+      "label": "RESEARCH ON GREEN CLEANING OF WATER SENSITIVE ART MATERIALS",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 2907.2124,
+      "y": 468.558,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "175",
+      "label": "RESEARCH IN NATURAL DYES AND THERE POTENTIAL IN TEXTILE INDUSTRY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -3129.0603,
+      "y": -345.6764,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "177",
+      "label": "EARLY MODERN TIMES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1840.6364,
+      "y": 517.00116,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "178",
+      "label": "TRAVEL LITERATURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2268.2334,
+      "y": 39.316673,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "179",
+      "label": "NLP",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 809.341,
+      "y": -959.8101,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "180",
+      "label": "DIGITAL HUMANITIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1545.8834,
+      "y": -437.22375,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "181",
+      "label": "DIGITAL ARCHAEOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 440.4105,
+      "y": 472.2956,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "182",
+      "label": "EUROPEAN HISTORY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 362.2875,
+      "y": -744.2736,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "183",
+      "label": "DIGITAL CINEMA",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2298.0613,
+      "y": -228.75073,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "184",
+      "label": "TECHNOLOGIES FOR FINEMA",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1393.1115,
+      "y": -99.09187,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "185",
+      "label": "AI",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -157.88992,
+      "y": 748.2905,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "186",
+      "label": "VFX",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -458.0462,
+      "y": -133.46835,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "187",
+      "label": "VR",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 546.0903,
+      "y": -580.3263,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "188",
+      "label": "GENDER STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1415.2266,
+      "y": 389.064,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "189",
+      "label": "POLITY AND POLITICS",
+      "type": "Keywords",
+      "size": 10.420168,
+      "x": -1620.1653,
+      "y": 301.33017,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "190",
+      "label": "URBAN STUDIES",
+      "type": "Keywords",
+      "size": 10.420168,
+      "x": -1526.6411,
+      "y": 186.27472,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "191",
+      "label": "COMMUNICATIONAL BEHAVIOUR",
+      "type": "Keywords",
+      "size": 10.420168,
+      "x": 2027.4066,
+      "y": 558.86694,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "192",
+      "label": "RELIGION AND SOCIETY",
+      "type": "Keywords",
+      "size": 10.420168,
+      "x": -980.4321,
+      "y": -470.9104,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "193",
+      "label": "HISTORY AND CHALLENGES OF DEMOCRACIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2000.9607,
+      "y": -149.73912,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "194",
+      "label": "POLICING AND POLICE FORCES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -502.38382,
+      "y": 127.45535,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "195",
+      "label": "ENGLISH FOR SPECIFIC PURPOSES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1470.4579,
+      "y": -770.4001,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "196",
+      "label": "ARTIFICIAL INTELLIGENCE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1096.4796,
+      "y": -439.78036,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "197",
+      "label": "LANGUAGE LEARNING AND TEACHING THROUGH ARTS",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -3058.9285,
+      "y": 134.29796,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "198",
+      "label": "PERFORMING ARTS AND LANGUAGE TEACHING",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": 712.01166,
+      "y": 976.7522,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "199",
+      "label": "LANGUAGE TECHNOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1396.4155,
+      "y": 809.315,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "200",
+      "label": "LANGUAGE RIGHTS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -198.91498,
+      "y": 252.60394,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "201",
+      "label": "MIGRATION",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -812.4902,
+      "y": 1.3977797,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "202",
+      "label": "CONFLICT RESOLUTION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 758.28827,
+      "y": 53.299408,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "205",
+      "label": "BEHAVIORAL ECONOMICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 546.49524,
+      "y": 658.2918,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "206",
+      "label": "MOTION CAPTURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -172.0341,
+      "y": -408.76285,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "207",
+      "label": "ENERGETIC COST OF HUMAN MOVEMENT",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1587.3135,
+      "y": 294.266,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "208",
+      "label": "ARTIFICIAL INTELLIGENCE IN LANGUAGE TEACHING AND ACQUISITION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -3203.7268,
+      "y": 194.65094,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "209",
+      "label": "INNOVATION IN TEACHING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1415.3906,
+      "y": 801.16583,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "210",
+      "label": "MULTIMODAL RESEARCH",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2287.0396,
+      "y": -661.7822,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "211",
+      "label": "SIGN LANGUAGE LINGUISTICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1695.7001,
+      "y": -618.20355,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "212",
+      "label": "GRAPHEMICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1410.9873,
+      "y": 708.8895,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "213",
+      "label": "HISTORICAL ORTHOGRAPHY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1840.9027,
+      "y": 768.28125,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "214",
+      "label": "MEDIA ACCESSIBILITY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -868.0035,
+      "y": 457.48602,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "215",
+      "label": "AUDIOVISUAL TRANSLATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 177.40335,
+      "y": -184.18417,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "216",
+      "label": "COGNITIVE PSYCHOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -208.14568,
+      "y": -470.9545,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "217",
+      "label": "NARRATOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1110.3347,
+      "y": 541.9303,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "218",
+      "label": "MULTILINGUAL HEALTHCARE COMMUNICATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -539.8936,
+      "y": 892.0419,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "219",
+      "label": "DIGITAL HUMANITIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1142.6675,
+      "y": -130.7034,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "220",
+      "label": "DATABASES CONCERNING EARLY MODERN LITERATURE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2515.5972,
+      "y": -52.996475,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "221",
+      "label": "NARRATIVE TROPES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1896.6804,
+      "y": 427.57053,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "222",
+      "label": "HUMOUR STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1637.6028,
+      "y": -96.56733,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "223",
+      "label": "REFLEXIVE AND RECIPROCAL CONSTRUCTIONS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1887.1561,
+      "y": 385.68402,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "224",
+      "label": "APPLICATIVE CONSTRUCTIONS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2338.2932,
+      "y": -498.72095,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "225",
+      "label": "ANTIPASSIVE CONSTRUCTIONS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 461.38156,
+      "y": -95.40551,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "226",
+      "label": "ALIGNMENT TYPES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -194.72453,
+      "y": -7.7804046,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "227",
+      "label": "INDIVIDUAL PATTERNS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 156.16566,
+      "y": 33.509712,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "228",
+      "label": "CLINICAL ASPECTS OF SPEECH AND OTHER",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -379.35696,
+      "y": 169.0028,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "229",
+      "label": "INTERCULTURAL COMMUNICATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 495.47144,
+      "y": 872.8999,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "230",
+      "label": "ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1967.9319,
+      "y": 344.43063,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "231",
+      "label": "LEXICOGRAPHY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 310.96848,
+      "y": -661.6152,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "232",
+      "label": "TRANSLATION STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 811.32666,
+      "y": -703.06415,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "233",
+      "label": "HOLOCAUST STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -460.26447,
+      "y": -218.80408,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "234",
+      "label": "BOOK HISTORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1141.8439,
+      "y": 179.5422,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "235",
+      "label": "HISTORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 321.81683,
+      "y": 74.9099,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "236",
+      "label": "MEMORY STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1014.5455,
+      "y": 759.4174,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "237",
+      "label": "LANGUAGES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1138.1041,
+      "y": -303.38184,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "238",
+      "label": "EAST-CENTRAL EUROPEAN STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1878.9783,
+      "y": 96.061424,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "239",
+      "label": "NEUROLINGUISTICS AND USE OF BRAIN IMAGING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 214.4516,
+      "y": 615.7201,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "240",
+      "label": "GERMAN LINGUISTICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1414.1604,
+      "y": 94.80516,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "241",
+      "label": "EXPRESSION OF MANNER",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1566.512,
+      "y": -815.2365,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "242",
+      "label": "EXPRESSIVITY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1952.4613,
+      "y": -308.99246,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "243",
+      "label": "EXCLAMATION",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -628.48114,
+      "y": 215.90218,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "244",
+      "label": "LINGUISTIC CATEGORIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2049.797,
+      "y": 149.12216,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "245",
+      "label": "COMICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 935.8867,
+      "y": 614.8009,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "246",
+      "label": "PHENOMENOLOGY AND HERMENEUTICS OF EMBODIMENT",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 2461.9365,
+      "y": -398.9381,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "248",
+      "label": "PERFORMANCE STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1233.225,
+      "y": -183.94176,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "249",
+      "label": "CRITICAL HUMANITIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1332.3973,
+      "y": 601.20044,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "250",
+      "label": "MOTHERHOOD",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -786.66846,
+      "y": -612.68646,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "251",
+      "label": "READING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1030.8281,
+      "y": 640.90045,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "252",
+      "label": "READER RESPONSE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2254.2937,
+      "y": -2.295124,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "253",
+      "label": "CREATIVE WRITING",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2364.3718,
+      "y": 250.97783,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "254",
+      "label": "LITERARY AND CULTURAL STUDIES IN THE CONTEXT OF AI ENVIRONMENT",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2537.2134,
+      "y": 689.1707,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "255",
+      "label": "THE STUDY OF EPISTOLOGRAPHY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 337.1424,
+      "y": -229.5053,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "256",
+      "label": "HERITAGE",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1001.78156,
+      "y": 111.32465,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "257",
+      "label": "MUSEUMS",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -942.13116,
+      "y": 345.37195,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "258",
+      "label": "ART AND CONTEMPORARY LITERATURE",
+      "type": "Keywords",
+      "size": 10.168067,
+      "x": -493.63657,
+      "y": -741.95917,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "259",
+      "label": "COGNITIVE APPROACH OF LITTï¿½RATURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1708.2909,
+      "y": 443.5992,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "260",
+      "label": "AESTHETICS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -904.8337,
+      "y": 790.817,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "261",
+      "label": "DANCE STUDIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -870.2504,
+      "y": -683.93353,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "262",
+      "label": "PATRIMONIAL STUDIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2058.1833,
+      "y": 90.79947,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "263",
+      "label": "DIGITAL HUMANITIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2686.5364,
+      "y": 428.04327,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "264",
+      "label": "STATISTICS IN SOCIOLOGY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1241.1174,
+      "y": -345.07944,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "265",
+      "label": "LITERARY THEORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 665.27167,
+      "y": 572.1898,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "266",
+      "label": "EUROPEAN LITERATURES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1111.9333,
+      "y": -868.20654,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "267",
+      "label": "PERFORMING ARTS HERITAGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2491.7102,
+      "y": -97.58601,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "268",
+      "label": "HISTORY OF STAGING",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 152.79274,
+      "y": 566.4195,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "269",
+      "label": "PERFORMING ARTS AND ECORESPONSIBILY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -2651.991,
+      "y": -300.48773,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "270",
+      "label": "FRANCOPHONE AND FRENCH LITERATURES FROM THE 18TH-21ST CENTURY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 3070.9136,
+      "y": 305.9449,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "271",
+      "label": "POSTCOLONIAL AND POSTSTRUCTURALIST THEORIES OF LITERATURE AND CULTURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 5030.206,
+      "y": 264.5327,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "272",
+      "label": "THE CONNECTION BETWEEN LITERATURE AND KNOWLEDGE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 4065.7988,
+      "y": 353.72638,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "273",
+      "label": "CONSTRUCTIONS OF ALTERITY AND GENDER IN LITERATURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2923.3186,
+      "y": 394.72037,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "274",
+      "label": "FRENCH-CANADIAN CHILDREN'S AND YOUTH LITERATURE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -2991.095,
+      "y": -513.73444,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "275",
+      "label": "MARINE LITERATURE AND HUMANITES BLEUES APPROACHES IN QUEBEC",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2439.2146,
+      "y": -747.24677,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "276",
+      "label": "ITALIAN LITERATURE OF THE 19TH CENTURY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1673.2118,
+      "y": -703.41864,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "277",
+      "label": "NORTHERN CONSTRUCTIONS IN FRANCOPHONE AND ITALOPHONE LITERATURES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2124.752,
+      "y": -959.2968,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 0
+    },
+    {
+      "id": "278",
+      "label": "VISUAL ARTS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 1708.1527,
+      "y": -350.5077,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "279",
+      "label": "CONTEMPORARY ART",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -1226.3751,
+      "y": -216.88908,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "280",
+      "label": "DESIGN",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 851.9244,
+      "y": 192.62756,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "281",
+      "label": "PERFORMANCE STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 873.99304,
+      "y": 383.45123,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "282",
+      "label": "ART HISTORY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -806.21155,
+      "y": -261.00726,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "283",
+      "label": "CURATING STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -651.22217,
+      "y": -368.90884,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "284",
+      "label": "MUSEUM STUDIES",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": 1702.4352,
+      "y": -35.661617,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "285",
+      "label": "MUSEOLOGY",
+      "type": "Keywords",
+      "size": 10.084034,
+      "x": -345.64795,
+      "y": -1001.24945,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "287",
+      "label": "SOCIOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -540.20197,
+      "y": -313.91666,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "288",
+      "label": "ANTHROPOLOGY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1517.0171,
+      "y": -302.49225,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "289",
+      "label": "POLITICS OF HEALTH AND WELFARE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 539.23206,
+      "y": -314.38882,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "290",
+      "label": "SOCIAL MOVEMENTS IN HEALTH AND CARE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 2673.9255,
+      "y": 42.306686,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "291",
+      "label": "SOCIAL JUSTICE AND EQUITY IN HEALTH AND CARE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 536.8911,
+      "y": -914.9252,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "292",
+      "label": "WELFARE MOVEMENTS",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -660.3677,
+      "y": 746.7571,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "293",
+      "label": "DISCOURSE THEORY",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": -1236.3683,
+      "y": -640.3513,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "294",
+      "label": "ENVIROMENTAL JUSTICE",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 470.17215,
+      "y": 744.2269,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    },
+    {
+      "id": "295",
+      "label": "ALTERNATIVE ECONOMIES",
+      "type": "Keywords",
+      "size": 10.0,
+      "x": 792.65533,
+      "y": -539.6082,
+      "color": "#9a96e5",
+      "weight": 1,
+      "modularity_class": 1
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "1",
+      "target": "2",
+      "label": "Collaborate with",
+      "size": 42.0
+    },
+    {
+      "id": "e1",
+      "source": "1",
+      "target": "3",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e2",
+      "source": "1",
+      "target": "4",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e3",
+      "source": "1",
+      "target": "5",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e4",
+      "source": "1",
+      "target": "7",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e5",
+      "source": "1",
+      "target": "8",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e6",
+      "source": "1",
+      "target": "9",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e7",
+      "source": "1",
+      "target": "11",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e8",
+      "source": "1",
+      "target": "13",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e9",
+      "source": "2",
+      "target": "2",
+      "label": "Collaborate with",
+      "size": 2.0
+    },
+    {
+      "id": "e10",
+      "source": "3",
+      "target": "3",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e11",
+      "source": "4",
+      "target": "4",
+      "label": "Collaborate with",
+      "size": 1.0
+    },
+    {
+      "id": "e12",
+      "source": "5",
+      "target": "5",
+      "label": "Collaborate with",
+      "size": 6.0
+    },
+    {
+      "id": "e13",
+      "source": "7",
+      "target": "7",
+      "label": "Collaborate with",
+      "size": 7.0
+    },
+    {
+      "id": "e14",
+      "source": "8",
+      "target": "8",
+      "label": "Collaborate with",
+      "size": 10.0
+    },
+    {
+      "id": "e15",
+      "source": "9",
+      "target": "9",
+      "label": "Collaborate with",
+      "size": 2.0
+    },
+    {
+      "id": "e16",
+      "source": "11",
+      "target": "11",
+      "label": "Collaborate with",
+      "size": 2.0
+    },
+    {
+      "id": "e17",
+      "source": "13",
+      "target": "13",
+      "label": "Collaborate with",
+      "size": 11.0
+    },
+    {
+      "id": "e18",
+      "source": "4",
+      "target": "30",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e19",
+      "source": "4",
+      "target": "31",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e20",
+      "source": "4",
+      "target": "21",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e21",
+      "source": "4",
+      "target": "22",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e22",
+      "source": "4",
+      "target": "23",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e23",
+      "source": "4",
+      "target": "170",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e24",
+      "source": "4",
+      "target": "171",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e25",
+      "source": "4",
+      "target": "168",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e26",
+      "source": "4",
+      "target": "169",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e27",
+      "source": "5",
+      "target": "170",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e28",
+      "source": "5",
+      "target": "171",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e29",
+      "source": "5",
+      "target": "173",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e30",
+      "source": "5",
+      "target": "174",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e31",
+      "source": "5",
+      "target": "175",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e32",
+      "source": "5",
+      "target": "153",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e33",
+      "source": "5",
+      "target": "154",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e34",
+      "source": "5",
+      "target": "155",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e35",
+      "source": "5",
+      "target": "156",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e36",
+      "source": "5",
+      "target": "157",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e37",
+      "source": "2",
+      "target": "15",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e38",
+      "source": "2",
+      "target": "16",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e39",
+      "source": "2",
+      "target": "17",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e40",
+      "source": "2",
+      "target": "18",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e41",
+      "source": "2",
+      "target": "19",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e42",
+      "source": "2",
+      "target": "20",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e43",
+      "source": "2",
+      "target": "21",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e44",
+      "source": "2",
+      "target": "22",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e45",
+      "source": "2",
+      "target": "23",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e46",
+      "source": "2",
+      "target": "24",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e47",
+      "source": "2",
+      "target": "25",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e48",
+      "source": "2",
+      "target": "26",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e49",
+      "source": "2",
+      "target": "27",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e50",
+      "source": "2",
+      "target": "28",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e51",
+      "source": "2",
+      "target": "29",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e52",
+      "source": "2",
+      "target": "125",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e53",
+      "source": "2",
+      "target": "126",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e54",
+      "source": "2",
+      "target": "127",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e55",
+      "source": "2",
+      "target": "128",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e56",
+      "source": "2",
+      "target": "129",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e57",
+      "source": "2",
+      "target": "130",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e58",
+      "source": "2",
+      "target": "131",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e59",
+      "source": "2",
+      "target": "132",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e60",
+      "source": "2",
+      "target": "133",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e61",
+      "source": "2",
+      "target": "134",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e62",
+      "source": "2",
+      "target": "135",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e63",
+      "source": "2",
+      "target": "136",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e64",
+      "source": "2",
+      "target": "137",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e65",
+      "source": "2",
+      "target": "138",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e66",
+      "source": "2",
+      "target": "139",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e67",
+      "source": "2",
+      "target": "140",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e68",
+      "source": "2",
+      "target": "141",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e69",
+      "source": "2",
+      "target": "142",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e70",
+      "source": "2",
+      "target": "143",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e71",
+      "source": "2",
+      "target": "144",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e72",
+      "source": "2",
+      "target": "145",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e73",
+      "source": "2",
+      "target": "146",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e74",
+      "source": "2",
+      "target": "147",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e75",
+      "source": "2",
+      "target": "148",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e76",
+      "source": "2",
+      "target": "149",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e77",
+      "source": "2",
+      "target": "150",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e78",
+      "source": "2",
+      "target": "151",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e79",
+      "source": "2",
+      "target": "152",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e80",
+      "source": "2",
+      "target": "153",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e81",
+      "source": "2",
+      "target": "154",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e82",
+      "source": "2",
+      "target": "155",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e83",
+      "source": "2",
+      "target": "156",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e84",
+      "source": "2",
+      "target": "157",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e85",
+      "source": "2",
+      "target": "158",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e86",
+      "source": "2",
+      "target": "159",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e87",
+      "source": "2",
+      "target": "160",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e88",
+      "source": "2",
+      "target": "161",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e89",
+      "source": "2",
+      "target": "162",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e90",
+      "source": "2",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e91",
+      "source": "2",
+      "target": "164",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e92",
+      "source": "2",
+      "target": "165",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e93",
+      "source": "2",
+      "target": "166",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e94",
+      "source": "2",
+      "target": "167",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e95",
+      "source": "2",
+      "target": "168",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e96",
+      "source": "2",
+      "target": "169",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e97",
+      "source": "6",
+      "target": "32",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e98",
+      "source": "6",
+      "target": "33",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e99",
+      "source": "6",
+      "target": "34",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e100",
+      "source": "6",
+      "target": "35",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e101",
+      "source": "6",
+      "target": "36",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e102",
+      "source": "6",
+      "target": "37",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e103",
+      "source": "6",
+      "target": "38",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e104",
+      "source": "6",
+      "target": "47",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e105",
+      "source": "6",
+      "target": "48",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e106",
+      "source": "6",
+      "target": "49",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e107",
+      "source": "6",
+      "target": "50",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e108",
+      "source": "6",
+      "target": "24",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e109",
+      "source": "6",
+      "target": "25",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e110",
+      "source": "6",
+      "target": "26",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e111",
+      "source": "6",
+      "target": "27",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e112",
+      "source": "6",
+      "target": "28",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e113",
+      "source": "6",
+      "target": "29",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e114",
+      "source": "6",
+      "target": "51",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e115",
+      "source": "6",
+      "target": "170",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e116",
+      "source": "6",
+      "target": "171",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e117",
+      "source": "6",
+      "target": "177",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e118",
+      "source": "6",
+      "target": "178",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e119",
+      "source": "6",
+      "target": "179",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e120",
+      "source": "6",
+      "target": "180",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e121",
+      "source": "6",
+      "target": "181",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e122",
+      "source": "6",
+      "target": "182",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e123",
+      "source": "6",
+      "target": "128",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e124",
+      "source": "6",
+      "target": "129",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e125",
+      "source": "6",
+      "target": "130",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e126",
+      "source": "6",
+      "target": "131",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e127",
+      "source": "6",
+      "target": "132",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e128",
+      "source": "6",
+      "target": "133",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e129",
+      "source": "6",
+      "target": "134",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e130",
+      "source": "6",
+      "target": "135",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e131",
+      "source": "6",
+      "target": "136",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e132",
+      "source": "6",
+      "target": "137",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e133",
+      "source": "6",
+      "target": "138",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e134",
+      "source": "6",
+      "target": "139",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e135",
+      "source": "6",
+      "target": "173",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e136",
+      "source": "6",
+      "target": "174",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e137",
+      "source": "6",
+      "target": "175",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e138",
+      "source": "6",
+      "target": "183",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e139",
+      "source": "6",
+      "target": "184",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e140",
+      "source": "6",
+      "target": "185",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e141",
+      "source": "6",
+      "target": "186",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e142",
+      "source": "6",
+      "target": "187",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e143",
+      "source": "6",
+      "target": "188",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e144",
+      "source": "6",
+      "target": "102",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e145",
+      "source": "6",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e146",
+      "source": "6",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e147",
+      "source": "6",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e148",
+      "source": "6",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e149",
+      "source": "6",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e150",
+      "source": "6",
+      "target": "193",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e151",
+      "source": "6",
+      "target": "194",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e152",
+      "source": "7",
+      "target": "128",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e153",
+      "source": "7",
+      "target": "129",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e154",
+      "source": "7",
+      "target": "130",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e155",
+      "source": "7",
+      "target": "131",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e156",
+      "source": "7",
+      "target": "132",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e157",
+      "source": "7",
+      "target": "133",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e158",
+      "source": "7",
+      "target": "134",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e159",
+      "source": "7",
+      "target": "135",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e160",
+      "source": "7",
+      "target": "136",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e161",
+      "source": "7",
+      "target": "137",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e162",
+      "source": "7",
+      "target": "138",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e163",
+      "source": "7",
+      "target": "139",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e164",
+      "source": "7",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e165",
+      "source": "7",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e166",
+      "source": "7",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e167",
+      "source": "7",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e168",
+      "source": "7",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e169",
+      "source": "8",
+      "target": "52",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e170",
+      "source": "8",
+      "target": "53",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e171",
+      "source": "8",
+      "target": "54",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e172",
+      "source": "8",
+      "target": "55",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e173",
+      "source": "8",
+      "target": "56",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e174",
+      "source": "8",
+      "target": "57",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e175",
+      "source": "8",
+      "target": "58",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e176",
+      "source": "8",
+      "target": "59",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e177",
+      "source": "8",
+      "target": "60",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e178",
+      "source": "8",
+      "target": "61",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e179",
+      "source": "8",
+      "target": "62",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e180",
+      "source": "8",
+      "target": "32",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e181",
+      "source": "8",
+      "target": "33",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e182",
+      "source": "8",
+      "target": "34",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e183",
+      "source": "8",
+      "target": "35",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e184",
+      "source": "8",
+      "target": "36",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e185",
+      "source": "8",
+      "target": "37",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e186",
+      "source": "8",
+      "target": "38",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e187",
+      "source": "8",
+      "target": "63",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e188",
+      "source": "8",
+      "target": "64",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e189",
+      "source": "8",
+      "target": "65",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e190",
+      "source": "8",
+      "target": "66",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e191",
+      "source": "8",
+      "target": "67",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e192",
+      "source": "8",
+      "target": "68",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e193",
+      "source": "8",
+      "target": "69",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e194",
+      "source": "8",
+      "target": "70",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e195",
+      "source": "8",
+      "target": "71",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e196",
+      "source": "8",
+      "target": "72",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e197",
+      "source": "8",
+      "target": "73",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e198",
+      "source": "8",
+      "target": "74",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e199",
+      "source": "8",
+      "target": "75",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e200",
+      "source": "8",
+      "target": "76",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e201",
+      "source": "8",
+      "target": "77",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e202",
+      "source": "8",
+      "target": "78",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e203",
+      "source": "8",
+      "target": "79",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e204",
+      "source": "8",
+      "target": "80",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e205",
+      "source": "8",
+      "target": "81",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e206",
+      "source": "8",
+      "target": "82",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e207",
+      "source": "8",
+      "target": "83",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e208",
+      "source": "8",
+      "target": "22",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e209",
+      "source": "8",
+      "target": "84",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e210",
+      "source": "8",
+      "target": "85",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e211",
+      "source": "8",
+      "target": "24",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e212",
+      "source": "8",
+      "target": "25",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e213",
+      "source": "8",
+      "target": "26",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e214",
+      "source": "8",
+      "target": "86",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e215",
+      "source": "8",
+      "target": "87",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e216",
+      "source": "8",
+      "target": "88",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e217",
+      "source": "8",
+      "target": "89",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e218",
+      "source": "8",
+      "target": "195",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e219",
+      "source": "8",
+      "target": "196",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e220",
+      "source": "8",
+      "target": "197",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e221",
+      "source": "8",
+      "target": "198",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e222",
+      "source": "8",
+      "target": "128",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e223",
+      "source": "8",
+      "target": "129",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e224",
+      "source": "8",
+      "target": "130",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e225",
+      "source": "8",
+      "target": "131",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e226",
+      "source": "8",
+      "target": "132",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e227",
+      "source": "8",
+      "target": "133",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e228",
+      "source": "8",
+      "target": "134",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e229",
+      "source": "8",
+      "target": "135",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e230",
+      "source": "8",
+      "target": "136",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e231",
+      "source": "8",
+      "target": "137",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e232",
+      "source": "8",
+      "target": "138",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e233",
+      "source": "8",
+      "target": "139",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e234",
+      "source": "8",
+      "target": "199",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e235",
+      "source": "8",
+      "target": "200",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e236",
+      "source": "8",
+      "target": "201",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e237",
+      "source": "8",
+      "target": "202",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e238",
+      "source": "8",
+      "target": "205",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e239",
+      "source": "8",
+      "target": "206",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e240",
+      "source": "8",
+      "target": "207",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e241",
+      "source": "8",
+      "target": "208",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e242",
+      "source": "8",
+      "target": "209",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e243",
+      "source": "8",
+      "target": "210",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e244",
+      "source": "8",
+      "target": "211",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e245",
+      "source": "8",
+      "target": "212",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e246",
+      "source": "8",
+      "target": "213",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e247",
+      "source": "8",
+      "target": "214",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e248",
+      "source": "8",
+      "target": "215",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e249",
+      "source": "8",
+      "target": "216",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e250",
+      "source": "8",
+      "target": "217",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e251",
+      "source": "8",
+      "target": "167",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e252",
+      "source": "8",
+      "target": "218",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e253",
+      "source": "8",
+      "target": "219",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e254",
+      "source": "8",
+      "target": "220",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e255",
+      "source": "8",
+      "target": "221",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e256",
+      "source": "8",
+      "target": "222",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e257",
+      "source": "8",
+      "target": "223",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e258",
+      "source": "8",
+      "target": "224",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e259",
+      "source": "8",
+      "target": "225",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e260",
+      "source": "8",
+      "target": "226",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e261",
+      "source": "8",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e262",
+      "source": "8",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e263",
+      "source": "8",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e264",
+      "source": "8",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e265",
+      "source": "8",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e266",
+      "source": "8",
+      "target": "185",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e267",
+      "source": "8",
+      "target": "227",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e268",
+      "source": "8",
+      "target": "228",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e269",
+      "source": "8",
+      "target": "229",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e270",
+      "source": "8",
+      "target": "230",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e271",
+      "source": "8",
+      "target": "231",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e272",
+      "source": "8",
+      "target": "232",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e273",
+      "source": "8",
+      "target": "233",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e274",
+      "source": "8",
+      "target": "234",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e275",
+      "source": "8",
+      "target": "235",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e276",
+      "source": "8",
+      "target": "236",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e277",
+      "source": "8",
+      "target": "237",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e278",
+      "source": "8",
+      "target": "238",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e279",
+      "source": "8",
+      "target": "239",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e280",
+      "source": "8",
+      "target": "240",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e281",
+      "source": "8",
+      "target": "241",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e282",
+      "source": "8",
+      "target": "242",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e283",
+      "source": "8",
+      "target": "243",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e284",
+      "source": "8",
+      "target": "244",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e285",
+      "source": "8",
+      "target": "245",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e286",
+      "source": "9",
+      "target": "90",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e287",
+      "source": "9",
+      "target": "15",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e288",
+      "source": "9",
+      "target": "16",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e289",
+      "source": "9",
+      "target": "32",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e290",
+      "source": "9",
+      "target": "33",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e291",
+      "source": "9",
+      "target": "34",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e292",
+      "source": "9",
+      "target": "35",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e293",
+      "source": "9",
+      "target": "36",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e294",
+      "source": "9",
+      "target": "37",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e295",
+      "source": "9",
+      "target": "38",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e296",
+      "source": "9",
+      "target": "71",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e297",
+      "source": "9",
+      "target": "72",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e298",
+      "source": "9",
+      "target": "73",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e299",
+      "source": "9",
+      "target": "74",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e300",
+      "source": "9",
+      "target": "91",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e301",
+      "source": "9",
+      "target": "92",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e302",
+      "source": "9",
+      "target": "93",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e303",
+      "source": "9",
+      "target": "75",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e304",
+      "source": "9",
+      "target": "76",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e305",
+      "source": "9",
+      "target": "77",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e306",
+      "source": "9",
+      "target": "21",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e307",
+      "source": "9",
+      "target": "22",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e308",
+      "source": "9",
+      "target": "23",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e309",
+      "source": "9",
+      "target": "81",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e310",
+      "source": "9",
+      "target": "82",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e311",
+      "source": "9",
+      "target": "83",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e312",
+      "source": "9",
+      "target": "84",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e313",
+      "source": "9",
+      "target": "85",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e314",
+      "source": "9",
+      "target": "246",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e315",
+      "source": "9",
+      "target": "248",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e316",
+      "source": "9",
+      "target": "249",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e317",
+      "source": "9",
+      "target": "125",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e318",
+      "source": "9",
+      "target": "126",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e319",
+      "source": "9",
+      "target": "127",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e320",
+      "source": "9",
+      "target": "250",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e321",
+      "source": "9",
+      "target": "251",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e322",
+      "source": "9",
+      "target": "252",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e323",
+      "source": "9",
+      "target": "253",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e324",
+      "source": "9",
+      "target": "197",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e325",
+      "source": "9",
+      "target": "198",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e326",
+      "source": "9",
+      "target": "254",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e327",
+      "source": "9",
+      "target": "255",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e328",
+      "source": "9",
+      "target": "140",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e329",
+      "source": "9",
+      "target": "141",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e330",
+      "source": "9",
+      "target": "142",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e331",
+      "source": "9",
+      "target": "143",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e332",
+      "source": "9",
+      "target": "144",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e333",
+      "source": "9",
+      "target": "145",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e334",
+      "source": "9",
+      "target": "146",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e335",
+      "source": "9",
+      "target": "147",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e336",
+      "source": "9",
+      "target": "148",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e337",
+      "source": "9",
+      "target": "256",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e338",
+      "source": "9",
+      "target": "257",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e339",
+      "source": "9",
+      "target": "258",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e340",
+      "source": "9",
+      "target": "153",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e341",
+      "source": "9",
+      "target": "154",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e342",
+      "source": "9",
+      "target": "155",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e343",
+      "source": "9",
+      "target": "156",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e344",
+      "source": "9",
+      "target": "157",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e345",
+      "source": "9",
+      "target": "162",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e346",
+      "source": "9",
+      "target": "259",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e347",
+      "source": "9",
+      "target": "260",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e348",
+      "source": "9",
+      "target": "261",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e349",
+      "source": "9",
+      "target": "219",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e350",
+      "source": "9",
+      "target": "262",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e351",
+      "source": "9",
+      "target": "220",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e352",
+      "source": "9",
+      "target": "221",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e353",
+      "source": "9",
+      "target": "222",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e354",
+      "source": "9",
+      "target": "263",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e355",
+      "source": "9",
+      "target": "264",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e356",
+      "source": "9",
+      "target": "265",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e357",
+      "source": "9",
+      "target": "266",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e358",
+      "source": "9",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e359",
+      "source": "9",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e360",
+      "source": "9",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e361",
+      "source": "9",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e362",
+      "source": "9",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e363",
+      "source": "9",
+      "target": "267",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e364",
+      "source": "9",
+      "target": "268",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e365",
+      "source": "9",
+      "target": "269",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e366",
+      "source": "9",
+      "target": "232",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e367",
+      "source": "9",
+      "target": "233",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e368",
+      "source": "9",
+      "target": "234",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e369",
+      "source": "9",
+      "target": "235",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e370",
+      "source": "9",
+      "target": "236",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e371",
+      "source": "9",
+      "target": "237",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e372",
+      "source": "9",
+      "target": "238",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e373",
+      "source": "9",
+      "target": "270",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e374",
+      "source": "9",
+      "target": "271",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e375",
+      "source": "9",
+      "target": "272",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e376",
+      "source": "9",
+      "target": "273",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e377",
+      "source": "9",
+      "target": "274",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e378",
+      "source": "9",
+      "target": "275",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e379",
+      "source": "9",
+      "target": "276",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e380",
+      "source": "9",
+      "target": "277",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e381",
+      "source": "10",
+      "target": "27",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e382",
+      "source": "10",
+      "target": "28",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e383",
+      "source": "10",
+      "target": "29",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e384",
+      "source": "10",
+      "target": "170",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e385",
+      "source": "10",
+      "target": "171",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e386",
+      "source": "10",
+      "target": "278",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e387",
+      "source": "10",
+      "target": "279",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e388",
+      "source": "10",
+      "target": "280",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e389",
+      "source": "10",
+      "target": "281",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e390",
+      "source": "10",
+      "target": "282",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e391",
+      "source": "10",
+      "target": "283",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e392",
+      "source": "10",
+      "target": "284",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e393",
+      "source": "10",
+      "target": "285",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e394",
+      "source": "10",
+      "target": "256",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e395",
+      "source": "10",
+      "target": "257",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e396",
+      "source": "10",
+      "target": "258",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e397",
+      "source": "10",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e398",
+      "source": "10",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e399",
+      "source": "10",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e400",
+      "source": "10",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e401",
+      "source": "10",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e402",
+      "source": "10",
+      "target": "125",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e403",
+      "source": "10",
+      "target": "126",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e404",
+      "source": "10",
+      "target": "127",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e405",
+      "source": "10",
+      "target": "145",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e406",
+      "source": "10",
+      "target": "146",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e407",
+      "source": "10",
+      "target": "147",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e408",
+      "source": "10",
+      "target": "148",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e409",
+      "source": "12",
+      "target": "101",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e410",
+      "source": "12",
+      "target": "102",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e411",
+      "source": "12",
+      "target": "103",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e412",
+      "source": "12",
+      "target": "30",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e413",
+      "source": "12",
+      "target": "31",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e414",
+      "source": "12",
+      "target": "246",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e415",
+      "source": "12",
+      "target": "248",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e416",
+      "source": "12",
+      "target": "249",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e417",
+      "source": "12",
+      "target": "128",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e418",
+      "source": "12",
+      "target": "129",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e419",
+      "source": "12",
+      "target": "130",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e420",
+      "source": "12",
+      "target": "131",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e421",
+      "source": "12",
+      "target": "132",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e422",
+      "source": "12",
+      "target": "133",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e423",
+      "source": "12",
+      "target": "134",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e424",
+      "source": "12",
+      "target": "135",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e425",
+      "source": "12",
+      "target": "136",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e426",
+      "source": "12",
+      "target": "137",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e427",
+      "source": "12",
+      "target": "138",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e428",
+      "source": "12",
+      "target": "139",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e429",
+      "source": "12",
+      "target": "287",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e430",
+      "source": "12",
+      "target": "288",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e431",
+      "source": "12",
+      "target": "289",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e432",
+      "source": "12",
+      "target": "290",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e433",
+      "source": "12",
+      "target": "291",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e434",
+      "source": "12",
+      "target": "292",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e435",
+      "source": "12",
+      "target": "293",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e436",
+      "source": "12",
+      "target": "294",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e437",
+      "source": "12",
+      "target": "295",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e438",
+      "source": "12",
+      "target": "201",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e439",
+      "source": "12",
+      "target": "263",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e440",
+      "source": "12",
+      "target": "264",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e441",
+      "source": "12",
+      "target": "265",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e442",
+      "source": "12",
+      "target": "266",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e443",
+      "source": "12",
+      "target": "189",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e444",
+      "source": "12",
+      "target": "190",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e445",
+      "source": "12",
+      "target": "191",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e446",
+      "source": "12",
+      "target": "192",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e447",
+      "source": "12",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e448",
+      "source": "14",
+      "target": "15",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e449",
+      "source": "14",
+      "target": "16",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e450",
+      "source": "14",
+      "target": "101",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e451",
+      "source": "14",
+      "target": "102",
+      "label": "",
+      "size": 2.0
+    },
+    {
+      "id": "e452",
+      "source": "14",
+      "target": "103",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e453",
+      "source": "14",
+      "target": "104",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e454",
+      "source": "14",
+      "target": "17",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e455",
+      "source": "14",
+      "target": "18",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e456",
+      "source": "14",
+      "target": "19",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e457",
+      "source": "14",
+      "target": "20",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e458",
+      "source": "14",
+      "target": "105",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e459",
+      "source": "14",
+      "target": "106",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e460",
+      "source": "14",
+      "target": "107",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e461",
+      "source": "14",
+      "target": "108",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e462",
+      "source": "14",
+      "target": "75",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e463",
+      "source": "14",
+      "target": "76",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e464",
+      "source": "14",
+      "target": "77",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e465",
+      "source": "14",
+      "target": "47",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e466",
+      "source": "14",
+      "target": "48",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e467",
+      "source": "14",
+      "target": "49",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e468",
+      "source": "14",
+      "target": "50",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e469",
+      "source": "14",
+      "target": "109",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e470",
+      "source": "14",
+      "target": "110",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e471",
+      "source": "14",
+      "target": "111",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e472",
+      "source": "14",
+      "target": "112",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e473",
+      "source": "14",
+      "target": "113",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e474",
+      "source": "14",
+      "target": "114",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e475",
+      "source": "14",
+      "target": "115",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e476",
+      "source": "14",
+      "target": "116",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e477",
+      "source": "14",
+      "target": "117",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e478",
+      "source": "14",
+      "target": "118",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e479",
+      "source": "14",
+      "target": "119",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e480",
+      "source": "14",
+      "target": "120",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e481",
+      "source": "14",
+      "target": "121",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e482",
+      "source": "14",
+      "target": "122",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e483",
+      "source": "14",
+      "target": "123",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e484",
+      "source": "14",
+      "target": "124",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e485",
+      "source": "14",
+      "target": "51",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e486",
+      "source": "14",
+      "target": "279",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e487",
+      "source": "14",
+      "target": "280",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e488",
+      "source": "14",
+      "target": "281",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e489",
+      "source": "14",
+      "target": "282",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e490",
+      "source": "14",
+      "target": "283",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e491",
+      "source": "14",
+      "target": "284",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e492",
+      "source": "14",
+      "target": "285",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e493",
+      "source": "14",
+      "target": "126",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e494",
+      "source": "14",
+      "target": "127",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e495",
+      "source": "14",
+      "target": "198",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e496",
+      "source": "14",
+      "target": "141",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e497",
+      "source": "14",
+      "target": "142",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e498",
+      "source": "14",
+      "target": "143",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e499",
+      "source": "14",
+      "target": "144",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e500",
+      "source": "14",
+      "target": "146",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e501",
+      "source": "14",
+      "target": "147",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e502",
+      "source": "14",
+      "target": "148",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e503",
+      "source": "14",
+      "target": "150",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e504",
+      "source": "14",
+      "target": "151",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e505",
+      "source": "14",
+      "target": "152",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e506",
+      "source": "14",
+      "target": "257",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e507",
+      "source": "14",
+      "target": "258",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e508",
+      "source": "14",
+      "target": "154",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e509",
+      "source": "14",
+      "target": "155",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e510",
+      "source": "14",
+      "target": "156",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e511",
+      "source": "14",
+      "target": "157",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e512",
+      "source": "14",
+      "target": "159",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e513",
+      "source": "14",
+      "target": "160",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e514",
+      "source": "14",
+      "target": "161",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e515",
+      "source": "14",
+      "target": "162",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e516",
+      "source": "14",
+      "target": "163",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e517",
+      "source": "14",
+      "target": "164",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e518",
+      "source": "14",
+      "target": "165",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e519",
+      "source": "14",
+      "target": "166",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e520",
+      "source": "14",
+      "target": "184",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e521",
+      "source": "14",
+      "target": "185",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e522",
+      "source": "14",
+      "target": "186",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e523",
+      "source": "14",
+      "target": "187",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e524",
+      "source": "14",
+      "target": "188",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e525",
+      "source": "14",
+      "target": "268",
+      "label": "",
+      "size": 1.0
+    },
+    {
+      "id": "e526",
+      "source": "14",
+      "target": "269",
+      "label": "",
+      "size": 1.0
+    }
+  ]
+}
