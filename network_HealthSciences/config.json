@@ -30,7 +30,7 @@
     "drawingProperties": {
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#FFF",
+      "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 10,
