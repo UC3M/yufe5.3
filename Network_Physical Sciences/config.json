@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "G:\\Mi unidad\\0. BIBLIOTECA 2023-\\1. PROYECTOS TRANSVERSALES\\8. YUFE_ Task 5.3\\ENCUESTA\\1. ANÁLISIS POR DOMINIO",
+    "link": "https://www.uc3m.es/yufe/inicio",
+    "text": "M Eugenia Iglesias"
+  },
+  "text": {
+    "more": "\u003cp\u003e  \nEste grafo interactivo representa la estructura jerárquica de investigaciones en   \n\u003cstrong\u003ePhysical Sciences\u003c/strong\u003e extraída de un conjunto de usuarios. Los 3 niveles son:  \n\u003cul\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#2563EB;\"\u003eDomain\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#24EB84;\"\u003eField\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#EB3424;\"\u003eSubfield\u003c/span\u003e\u003c/li\u003e  \n\u003c/ul\u003e  \nEl tamaño de cada nodo es proporcional al número de menciones (\u003cem\u003eWeight\u003c/em\u003e).   \nUsa la búsqueda o el selector para centrarte en áreas específicas.  \n\u003c/p\u003e  \n",
+    "intro": "Network de 133 usuarios citando 7 Fields y 100+ Subfields en Physical Sciences.  \nTamaño \u003d Weight (n.º de citas), color \u003d jerarquía\n",
+    "title": "Physical Sciences "
+  },
+  "legend": {
+    "edgeLabel": "Collaborate with",
+    "colorLabel": "• Azul → Domain       •Verde → Field  • Rojo → Subfield",
+    "nodeLabel": "Type: Domain, Field o Subfield"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
