@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Collaborate with",
-    "colorLabel": "• Azul → Domain       •Verde → Field  • Rojo → Subfield",
-    "nodeLabel": "Type: Domain, Field o Subfield"
+    "colorLabel": "• Blue: Domain       •Green: Field  • Orange: Subfield",
+    "nodeLabel": "Type: Domain, Field or Subfield"
   },
   "features": {
     "search": true,
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 1,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 5,
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
