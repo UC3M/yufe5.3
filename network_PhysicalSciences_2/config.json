@@ -8,7 +8,7 @@
     "text": "YUFE"
   },
   "text": {
-    "more": "<p>OpenAlex Domain, Fields and Subfields</p><p><img src='images/Logo YUFE-General.png' alt='Logo YUFE' style='max-width:100%;height:auto;'></p>",
+    "more": "\u003cp\u003e  \nThis interactive graph represents the hierarchical structure of research in  \n\u003cstrong\u003ePhysical Sciences\u003c/strong\u003e extracted from a set of users. The 3 levels are: \n\u003cul\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#24EB84;\"\u003eDomain\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#EB3424;\"\u003eField\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#2563EB;\"\u003eSubfield\u003c/span\u003e\u003c/li\u003e  \n\u003c/ul\u003e  \n\u003c/p\u003e  \n",
     "intro": "\u003cp\u003e  \nThis interactive graph represents the hierarchical structure of research in  \n\u003cstrong\u003ePhysical Sciences\u003c/strong\u003e extracted from a set of users. The 3 levels are: \n\u003cul\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#24EB84;\"\u003eDomain\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#EB3424;\"\u003eField\u003c/span\u003e\u003c/li\u003e  \n  \u003cli\u003e\u003cspan style\u003d\"color:#2563EB;\"\u003eSubfield\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\nThe size of each node is proportional to the number of mentions (\u003cem\u003eWeight\u003c/em\u003e).   \nUse the search or the selector to focus on specific areas. \n\u003c/p\u003e  ",
     "title": "Network Physical Sciences "
   },
