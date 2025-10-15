@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": "Type",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
