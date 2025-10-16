@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Collaborate with",
-    "colorLabel": "• Green: Domain • Orange: Field  • Blue: Subfield",
+    "colorLabel": "• Blue: Domain • Orange: Field  • Green: Subfield • Purple: Keywords",
     "nodeLabel": "Type: Domain, Field or Subfield"
   },
   "features": {
