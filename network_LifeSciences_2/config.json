@@ -4,8 +4,8 @@
   "data": "data.json",
   "logo": {
     "file": "images/Logo YUFE-General.png",
-    "link": "https://www.uc3m.es/yufe/inicio",
-    "text": "YUFE UC3M"
+    "link": "https://www.yufe.eu",
+    "text": "YUFE"
   },
   "text": {
     "more": "<p><strong>OpenAlex Domain, Fields and Subfields</strong></p><p><a href='images/Logo YUFE-General.png' target='_blank' rel='noopener'><img src='images/Logo YUFE-General.png' alt='Logo YUFE' style='max-width:100%;height:auto;'></a></p><p><a href='images/OPENLEX_1.jpg' target='_blank' rel='noopener'><img src='images/OPENALEX_1.jpg' alt='OpenAlex Fields and Subfields_1' style='max-width:100%;height:auto;'></a></p><p><a href='images/OPENALEX_2.jpg' target='_blank' rel='noopener'><img src='images/OPENALEX_2.jpg' alt='OpenAlex Fields and Subfields_2' style='max-width:100%;height:auto;'></a></p><p><a href='images/OPENALEX_3.jpg' target='_blank' rel='noopener'><img src='images/OPENALEX_3.jpg' alt='OpenAlex Fields and Subfields 3' style='max-width:100%;height:auto;'></a></p>",
