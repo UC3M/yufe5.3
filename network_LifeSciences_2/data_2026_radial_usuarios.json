@@ -1,0 +1,2136 @@
+{
+  "nodes": [
+    {
+      "label": "Physiology",
+      "x": 1264.866,
+      "y": -18.398,
+      "id": "83",
+      "attributes": {
+        "weight": "8",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 27.903225806451612
+    },
+    {
+      "label": "Statistics and Probability",
+      "x": -951.519,
+      "y": 645.842,
+      "id": "96",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Social Sciences",
+      "x": -119.924,
+      "y": -475.098,
+      "id": "16",
+      "attributes": {
+        "weight": "3",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "General Agricultural and Biological Science",
+      "x": 589.424,
+      "y": -987.461,
+      "id": "51",
+      "attributes": {
+        "weight": "7",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 26.774193548387096
+    },
+    {
+      "label": "Communication",
+      "x": -470.801,
+      "y": -1049.212,
+      "id": "38",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Pulmonary and Respiratory Medicine",
+      "x": -1122.74,
+      "y": 248.906,
+      "id": "86",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Social Psychology",
+      "x": -617.895,
+      "y": -969.9,
+      "id": "89",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Law",
+      "x": -309.6,
+      "y": -1226.529,
+      "id": "62",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Business, Management and Accounting",
+      "x": 457.963,
+      "y": 174.269,
+      "id": "3",
+      "attributes": {
+        "weight": "2",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Information Systems and Management",
+      "x": 281.455,
+      "y": 1115.026,
+      "id": "60",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Forestry",
+      "x": 584.112,
+      "y": -1122.069,
+      "id": "50",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Physics and Astronomy",
+      "x": -397.254,
+      "y": -286.86,
+      "id": "14",
+      "attributes": {
+        "weight": "1",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 20.0
+    },
+    {
+      "label": "Drug Discovery",
+      "x": -1049.212,
+      "y": -470.801,
+      "id": "43",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Analytical",
+      "x": 932.332,
+      "y": 673.244,
+      "id": "19",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Biochemistry",
+      "x": 1046.67,
+      "y": -710.427,
+      "id": "29",
+      "attributes": {
+        "weight": "4",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Management Information Systems",
+      "x": 1206.452,
+      "y": 380.393,
+      "id": "64",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Microbiology",
+      "x": 1129.505,
+      "y": -216.146,
+      "id": "68",
+      "attributes": {
+        "weight": "5",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 24.516129032258064
+    },
+    {
+      "label": "Computer Science",
+      "x": 238.802,
+      "y": 427.871,
+      "id": "5",
+      "attributes": {
+        "weight": "6",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 25.64516129032258
+    },
+    {
+      "label": "Business and International Management",
+      "x": 1115.026,
+      "y": 281.455,
+      "id": "32",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Human-Computer Interaction",
+      "x": 679.684,
+      "y": 1066.89,
+      "id": "57",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Experimental and Cognitive Psychology",
+      "x": -740.568,
+      "y": -1025.565,
+      "id": "48",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Life-span and Life-course Studies",
+      "x": -216.146,
+      "y": -1129.505,
+      "id": "63",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Virology",
+      "x": 1258.45,
+      "y": 128.568,
+      "id": "100",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Health",
+      "x": -345.812,
+      "y": -1096.774,
+      "id": "55",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Molecular Medicine",
+      "x": 1146.96,
+      "y": -83.557,
+      "id": "71",
+      "attributes": {
+        "weight": "4",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Engineering",
+      "x": -133.692,
+      "y": 471.409,
+      "id": "8",
+      "attributes": {
+        "weight": "1",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 20.0
+    },
+    {
+      "label": "Biological Psychiatry",
+      "x": -1263.796,
+      "y": -55.179,
+      "id": "30",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Biochemistry, Genetics and Molecular Biology",
+      "x": 471.409,
+      "y": -133.692,
+      "id": "2",
+      "attributes": {
+        "weight": "27",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 49.35483870967742
+    },
+    {
+      "label": "Endocrinology",
+      "x": 1182.293,
+      "y": -449.898,
+      "id": "46",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Animal Science and Zoology",
+      "x": 165.116,
+      "y": -1254.178,
+      "id": "20",
+      "attributes": {
+        "weight": "7",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 26.774193548387096
+    },
+    {
+      "label": "Insect Science",
+      "x": 700.076,
+      "y": -912.356,
+      "id": "61",
+      "attributes": {
+        "weight": "5",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 24.516129032258064
+    },
+    {
+      "label": "Health Professions",
+      "x": -275.185,
+      "y": 405.43,
+      "id": "9",
+      "attributes": {
+        "weight": "4",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Aging",
+      "x": 912.356,
+      "y": -700.076,
+      "id": "17",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Signal Processing",
+      "x": 551.23,
+      "y": 1138.583,
+      "id": "88",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Neuroscience",
+      "x": -485.808,
+      "y": -63.958,
+      "id": "12",
+      "attributes": {
+        "weight": "14",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 34.67741935483871
+    },
+    {
+      "label": "Mathematics",
+      "x": -388.743,
+      "y": 298.293,
+      "id": "10",
+      "attributes": {
+        "weight": "2",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Software",
+      "x": 440.086,
+      "y": 1062.461,
+      "id": "91",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Mechanical Engineering",
+      "x": -377.565,
+      "y": 1086.253,
+      "id": "67",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Biomedical Engineering",
+      "x": -248.906,
+      "y": 1122.74,
+      "id": "31",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Earth and Planetary Sciences",
+      "x": 7.127,
+      "y": 489.948,
+      "id": "7",
+      "attributes": {
+        "weight": "1",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 20.0
+    },
+    {
+      "label": "Pharmaceutical Science",
+      "x": -1122.069,
+      "y": -584.112,
+      "id": "78",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Surgery",
+      "x": -1248.845,
+      "y": 201.523,
+      "id": "99",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Cancer Research",
+      "x": 987.461,
+      "y": -589.424,
+      "id": "33",
+      "attributes": {
+        "weight": "6",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 25.64516129032258
+    },
+    {
+      "label": "Aquatic Science",
+      "x": 216.146,
+      "y": -1129.505,
+      "id": "23",
+      "attributes": {
+        "weight": "6",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 25.64516129032258
+    },
+    {
+      "label": "Education",
+      "x": -449.898,
+      "y": -1182.293,
+      "id": "45",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Behavioral Neuroscience",
+      "x": -1149.878,
+      "y": 16.725,
+      "id": "28",
+      "attributes": {
+        "weight": "7",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 26.774193548387096
+    },
+    {
+      "label": "Astronomy and Astrophysics",
+      "x": -932.332,
+      "y": -673.244,
+      "id": "25",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Computational Mechanics",
+      "x": -345.143,
+      "y": 1217.005,
+      "id": "39",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Soil Science",
+      "x": 801.26,
+      "y": -824.913,
+      "id": "92",
+      "attributes": {
+        "weight": "5",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 24.516129032258064
+    },
+    {
+      "label": "Pharmacology, Toxicology and Pharmaceutics",
+      "x": -441.032,
+      "y": -213.52,
+      "id": "13",
+      "attributes": {
+        "weight": "3",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Developmental Neurscience",
+      "x": -1122.74,
+      "y": -248.906,
+      "id": "41",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Sociology and Political Science",
+      "x": -83.557,
+      "y": -1146.96,
+      "id": "90",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Political Science and International Relations",
+      "x": -165.116,
+      "y": -1254.178,
+      "id": "85",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Atmospheric Science",
+      "x": 116.88,
+      "y": 1144.045,
+      "id": "26",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Ecology",
+      "x": 345.812,
+      "y": -1096.774,
+      "id": "44",
+      "attributes": {
+        "weight": "15",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 35.806451612903224
+    },
+    {
+      "label": "Immunology",
+      "x": 1226.529,
+      "y": -309.6,
+      "id": "58",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Artificial Intelligence",
+      "x": 673.244,
+      "y": 932.332,
+      "id": "24",
+      "attributes": {
+        "weight": "4",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Physical and Theoretical",
+      "x": 847.869,
+      "y": 776.929,
+      "id": "82",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "General Health Professions",
+      "x": -531.011,
+      "y": 1020.062,
+      "id": "52",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Developmental and Educational Psychology",
+      "x": -726.315,
+      "y": -891.609,
+      "id": "42",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Strategy and Management",
+      "x": 1020.062,
+      "y": 531.011,
+      "id": "97",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Developmental Biology",
+      "x": 1049.212,
+      "y": -470.801,
+      "id": "40",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Molecular Biology",
+      "x": 1254.178,
+      "y": -165.116,
+      "id": "70",
+      "attributes": {
+        "weight": "15",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 35.806451612903224
+    },
+    {
+      "label": "Medicine",
+      "x": -467.321,
+      "y": 147.346,
+      "id": "11",
+      "attributes": {
+        "weight": "4",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Pharmacy",
+      "x": -645.842,
+      "y": 951.519,
+      "id": "80",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Psychology",
+      "x": -309.473,
+      "y": -379.903,
+      "id": "15",
+      "attributes": {
+        "weight": "5",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 24.516129032258064
+    },
+    {
+      "label": "Sensory Systems",
+      "x": -1217.005,
+      "y": -345.143,
+      "id": "87",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Space and Planetary Science",
+      "x": -91.912,
+      "y": 1261.656,
+      "id": "93",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Life Sciences",
+      "x": 0.0,
+      "y": 0.0,
+      "id": "0",
+      "attributes": {
+        "weight": "63",
+        "type": "Domain"
+      },
+      "color": "rgb(40,179,106)",
+      "size": 90.0
+    },
+    {
+      "label": "Food Science",
+      "x": 470.801,
+      "y": -1049.212,
+      "id": "49",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Oncology",
+      "x": -1168.708,
+      "y": 484.095,
+      "id": "75",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Behavior and Systematics",
+      "x": 309.6,
+      "y": -1226.529,
+      "id": "27",
+      "attributes": {
+        "weight": "7",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 26.774193548387096
+    },
+    {
+      "label": "Agricultural and Biological Sciences",
+      "x": 200.602,
+      "y": -447.056,
+      "id": "1",
+      "attributes": {
+        "weight": "23",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 44.83870967741936
+    },
+    {
+      "label": "Cognitive Neuroscience",
+      "x": -1248.845,
+      "y": -201.523,
+      "id": "37",
+      "attributes": {
+        "weight": "7",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 26.774193548387096
+    },
+    {
+      "label": "Organic",
+      "x": 980.77,
+      "y": 798.947,
+      "id": "76",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Physical Therapy",
+      "x": -770.083,
+      "y": 1003.592,
+      "id": "81",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Evolution",
+      "x": 449.898,
+      "y": -1182.293,
+      "id": "47",
+      "attributes": {
+        "weight": "6",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 25.64516129032258
+    },
+    {
+      "label": "Applied Mathematics",
+      "x": -870.107,
+      "y": 751.94,
+      "id": "21",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Modelling and Simulation",
+      "x": -1003.592,
+      "y": 770.083,
+      "id": "69",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Cell Biology",
+      "x": 1122.069,
+      "y": -584.112,
+      "id": "34",
+      "attributes": {
+        "weight": "9",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 29.032258064516128
+    },
+    {
+      "label": "Information Systems",
+      "x": 560.454,
+      "y": 1004.187,
+      "id": "59",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Sports Therapy and Rehabilitation",
+      "x": -751.94,
+      "y": 870.107,
+      "id": "95",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Chemistry",
+      "x": 370.741,
+      "y": 320.392,
+      "id": "4",
+      "attributes": {
+        "weight": "2",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Geology",
+      "x": 55.179,
+      "y": 1263.796,
+      "id": "54",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Orthopedics and Sports Medicine",
+      "x": -1086.253,
+      "y": 377.565,
+      "id": "77",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Pharmacology",
+      "x": -1217.005,
+      "y": 345.143,
+      "id": "79",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Plant Science",
+      "x": 827.134,
+      "y": -957.118,
+      "id": "84",
+      "attributes": {
+        "weight": "10",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 30.161290322580648
+    },
+    {
+      "label": "Marketing, Organizational Behaviour and Human Resources",
+      "x": 1154.133,
+      "y": 517.881,
+      "id": "66",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Management of Technology and Innovation",
+      "x": 1074.812,
+      "y": 408.998,
+      "id": "65",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Applied Psychology",
+      "x": -824.913,
+      "y": -801.26,
+      "id": "22",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Genetics",
+      "x": 1096.774,
+      "y": -345.812,
+      "id": "53",
+      "attributes": {
+        "weight": "8",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 27.903225806451612
+    },
+    {
+      "label": "Cellular and Molecular Neurscience",
+      "x": -1144.045,
+      "y": -116.88,
+      "id": "35",
+      "attributes": {
+        "weight": "4",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Horticulture",
+      "x": 710.427,
+      "y": -1046.67,
+      "id": "56",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Clinical Psychology",
+      "x": -854.622,
+      "y": -932.656,
+      "id": "36",
+      "attributes": {
+        "weight": "2",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 21.129032258064516
+    },
+    {
+      "label": "Oceanography",
+      "x": -16.725,
+      "y": 1149.878,
+      "id": "74",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Decision Sciences",
+      "x": 119.924,
+      "y": 475.098,
+      "id": "6",
+      "attributes": {
+        "weight": "1",
+        "type": "Field"
+      },
+      "color": "rgb(249,119,67)",
+      "size": 20.0
+    },
+    {
+      "label": "Agronomy and Crop Science",
+      "x": 83.557,
+      "y": -1146.96,
+      "id": "18",
+      "attributes": {
+        "weight": "4",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 23.387096774193548
+    },
+    {
+      "label": "Neurology",
+      "x": -1035.075,
+      "y": 501.118,
+      "id": "72",
+      "attributes": {
+        "weight": "3",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 22.258064516129032
+    },
+    {
+      "label": "Structural Biology",
+      "x": 1148.905,
+      "y": 50.162,
+      "id": "98",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Occupational Therapy",
+      "x": -648.366,
+      "y": 1086.207,
+      "id": "73",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    },
+    {
+      "label": "Spectroscopy",
+      "x": 881.386,
+      "y": 907.405,
+      "id": "94",
+      "attributes": {
+        "weight": "1",
+        "type": "Subfield"
+      },
+      "color": "rgb(154,150,229)",
+      "size": 20.0
+    }
+  ],
+  "edges": [
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "72",
+      "id": "84",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "86",
+      "id": "77",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "9",
+      "target": "52",
+      "id": "65",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "3",
+      "target": "32",
+      "id": "43",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "10",
+      "target": "69",
+      "id": "71",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "28",
+      "id": "79",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 7
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "62",
+      "id": "98",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "37",
+      "id": "82",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 7
+    },
+    {
+      "label": "Collaborate with",
+      "source": "15",
+      "target": "42",
+      "id": "92",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "63",
+      "id": "99",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "70",
+      "id": "38",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 15
+    },
+    {
+      "label": "Collaborate with",
+      "source": "8",
+      "target": "31",
+      "id": "62",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "98",
+      "id": "41",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "77",
+      "id": "75",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "13",
+      "target": "79",
+      "id": "88",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "4",
+      "id": "3",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "9",
+      "target": "81",
+      "id": "68",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "29",
+      "id": "30",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "100",
+      "id": "42",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "35",
+      "id": "81",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "9",
+      "target": "95",
+      "id": "69",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "12",
+      "id": "11",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 14
+    },
+    {
+      "label": "Collaborate with",
+      "source": "6",
+      "target": "60",
+      "id": "57",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "9",
+      "id": "8",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "45",
+      "id": "96",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "61",
+      "id": "26",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 5
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "47",
+      "id": "21",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 6
+    },
+    {
+      "label": "Collaborate with",
+      "source": "4",
+      "target": "82",
+      "id": "50",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "1",
+      "id": "0",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 23
+    },
+    {
+      "label": "Collaborate with",
+      "source": "5",
+      "target": "57",
+      "id": "53",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "5",
+      "target": "88",
+      "id": "55",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "40",
+      "id": "33",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "3",
+      "target": "66",
+      "id": "46",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "4",
+      "target": "94",
+      "id": "51",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "3",
+      "target": "64",
+      "id": "44",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "3",
+      "target": "65",
+      "id": "45",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "8",
+      "id": "7",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "10",
+      "id": "9",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "4",
+      "target": "76",
+      "id": "49",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "56",
+      "id": "25",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "10",
+      "target": "96",
+      "id": "72",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "6",
+      "id": "5",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "23",
+      "id": "18",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 6
+    },
+    {
+      "label": "Collaborate with",
+      "source": "5",
+      "target": "24",
+      "id": "52",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "27",
+      "id": "19",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 7
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "58",
+      "id": "36",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "99",
+      "id": "78",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "7",
+      "target": "54",
+      "id": "59",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "38",
+      "id": "95",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "72",
+      "id": "73",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "79",
+      "id": "76",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "15",
+      "target": "22",
+      "id": "90",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "11",
+      "target": "75",
+      "id": "74",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "7",
+      "target": "93",
+      "id": "61",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "5",
+      "target": "59",
+      "id": "54",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "84",
+      "id": "27",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 10
+    },
+    {
+      "label": "Collaborate with",
+      "source": "15",
+      "target": "48",
+      "id": "93",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "46",
+      "id": "34",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "7",
+      "target": "26",
+      "id": "58",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "92",
+      "id": "28",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 5
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "41",
+      "id": "83",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "8",
+      "target": "67",
+      "id": "64",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "85",
+      "id": "100",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "90",
+      "id": "101",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "87",
+      "id": "85",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "5",
+      "id": "4",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 6
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "11",
+      "id": "10",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "15",
+      "id": "14",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 5
+    },
+    {
+      "label": "Collaborate with",
+      "source": "15",
+      "target": "36",
+      "id": "91",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "18",
+      "id": "16",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "3",
+      "id": "2",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "33",
+      "id": "31",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 6
+    },
+    {
+      "label": "Collaborate with",
+      "source": "5",
+      "target": "91",
+      "id": "56",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "16",
+      "target": "55",
+      "id": "97",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "50",
+      "id": "23",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "83",
+      "id": "40",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 8
+    },
+    {
+      "label": "Collaborate with",
+      "source": "14",
+      "target": "25",
+      "id": "89",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "12",
+      "target": "30",
+      "id": "80",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "49",
+      "id": "22",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "51",
+      "id": "24",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 7
+    },
+    {
+      "label": "Collaborate with",
+      "source": "7",
+      "target": "74",
+      "id": "60",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "7",
+      "id": "6",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "14",
+      "id": "13",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "3",
+      "target": "97",
+      "id": "47",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "44",
+      "id": "20",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 15
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "17",
+      "id": "29",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "13",
+      "target": "78",
+      "id": "87",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "2",
+      "id": "1",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 27
+    },
+    {
+      "label": "Collaborate with",
+      "source": "8",
+      "target": "39",
+      "id": "63",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "16",
+      "id": "15",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "9",
+      "target": "73",
+      "id": "66",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "13",
+      "target": "43",
+      "id": "86",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "4",
+      "target": "19",
+      "id": "48",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "68",
+      "id": "37",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 5
+    },
+    {
+      "label": "Collaborate with",
+      "source": "15",
+      "target": "89",
+      "id": "94",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 2
+    },
+    {
+      "label": "Collaborate with",
+      "source": "1",
+      "target": "20",
+      "id": "17",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 7
+    },
+    {
+      "label": "Collaborate with",
+      "source": "10",
+      "target": "21",
+      "id": "70",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "71",
+      "id": "39",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 4
+    },
+    {
+      "label": "Collaborate with",
+      "source": "9",
+      "target": "80",
+      "id": "67",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 1
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "53",
+      "id": "35",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 8
+    },
+    {
+      "label": "Collaborate with",
+      "source": "0",
+      "target": "13",
+      "id": "12",
+      "attributes": {},
+      "color": "rgb(144,149,86)",
+      "size": 3
+    },
+    {
+      "label": "Collaborate with",
+      "source": "2",
+      "target": "34",
+      "id": "32",
+      "attributes": {},
+      "color": "rgb(201,134,148)",
+      "size": 9
+    }
+  ]
+}
